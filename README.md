@@ -19,4 +19,8 @@ Item 3
 
 
 ![Github Logo](/images/logo.png)
-Format: ![Alt Text](url)
+Format: ![Alt Text](https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/N%27Tami%2C_Western_Gorilla.jpg/1200px-N%27Tami%2C_Western_Gorilla.jpg)
+http://github.com-automatic!
+[GitHub
+
+
