@@ -21,7 +21,8 @@ Item 3
 ![Github Logo](/images/logo.png)
 Format: ![Alt Text](https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/N%27Tami%2C_Western_Gorilla.jpg/1200px-N%27Tami%2C_Western_Gorilla.jpg)
 http://github.com-automatic!
-[GitHub](http://github.com)
+[GitHub]https://gist.githubusercontent.com/mszep/d3235240cc6653d6eeaa/raw/5904b5dc0e19b983fab48b1398057b707dd6d696/resume
+
 
 
 
